@@ -1,6 +1,6 @@
 ---
 date_added: 2019-11-08
-title: AOFO 4AC+4USB Tuya
+title: AOFO 4AC+4USB Tuya (C733)
 category: plug
 type: Power Strip
 standard: eu
@@ -9,6 +9,8 @@ image: https://images-na.ssl-images-amazon.com/images/I/816DuO0a4WL._SL1500_.jpg
 template: '{"NAME":"AOFO-4AC-4USB","GPIO":[255,255,255,255,255,255,0,0,255,255,255,255,255],"FLAG":1,"BASE":54}' 
 link2: 
 ---
+
+Dont forget to enter this command on the console :
 
 `Backlog TuyaMCU 11,38; TuyaMCU 12,1; TuyaMCU 13,2; TuyaMCU 14,3; TuyaMCU 15,4 ; TuyaMCU 16,7`
 
